@@ -1,6 +1,6 @@
-### Twitter Analyser Website
+### Resume Website
 
-this is my awesome twitter website
+this is my awesome Resume website
 
 
 
