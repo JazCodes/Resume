@@ -1,0 +1,46 @@
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	border-style: solid;
+	border-color: white;
+	margin-left: 500px;
+	margin-right: 500px;
+}
+
+
+h5 {
+	text-align: right;
+	color: #0080ff;
+
+}
+
+h2 {
+	text-decoration: underline;
+	text-align: left;
+	font-weight: bold;
+	color: #0080ff;
+
+}
+
+.information {
+	text-align: right;
+	color: #0080ff;
+
+}
+
+.summary {
+	text-align:left;
+	color: black;
+
+
+}
+
+.skills {
+
+	color: #0080ff;
+}
+
+.name {
+
+	font-family: 'ZCOOL KuaiLe', cursive;
+}
